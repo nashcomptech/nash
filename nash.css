@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color:#F0F;
+}
+h2{
+	color: #000000;
+	font-weight: bold;
+	text-align: left;
+	
+}
+.g {
+	font-style: italic;
+	color: #0000FF;
+}
+.a {
+	font-style: italic;
+	color: #F00;
+}
+.e {
+	font-style: italic;
+	color: #0F0;
+}
+.eh {
+	color: #666666;
+}
+.y {
+	color: #FF0000;
+}
